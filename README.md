@@ -8,6 +8,7 @@
 * HTTPS   =     Hypertext Transfer Protocol Secure
 * HTML    =     Hypertext Markup Language
 * CSS     =     Cascading Style Sheets (Creates the style and layout of a website)
+* SQL     =     Structured Qury Language
 
 ---
 #### How Do Browsers Work?
@@ -29,7 +30,47 @@
 ### What is HTML?
 <p>HTML - structures website content
 <p>
-<p> **Common Tags**
-<p> "<h1>This is a heading, it emphasizes text.</h1>"
-<p>
-<p>
+<p> Common Tags <p>
+
+![image](https://user-images.githubusercontent.com/110134426/181615378-3f792ba2-6c6c-4a9e-8dae-3ee434130988.png)
+
+#### Adding Hypelinks
+href = **H**yper **Ref**erence
+<p> When we set the href property on an anchor tag (abbreviated to <a>) we can specify both the text that should be rendered for the user (the text within the anchor tag) and the URL that the browser should navigate to.
+
+![image](https://user-images.githubusercontent.com/110134426/181616307-365fe816-cab1-4d30-8af6-025bf25a74c1.png)
+
+***
+### What is CSS?
+<p>CSS - applies styling to websites
+
+***
+### What is JavaScript?
+<p>JavaScript - adds interactivity to websites
+- Functions allow us to write a chunk of code once that can be reused over and over.
+- Events allow JavaScript to respond to user behaviours, like the user hovering their mouse oer an HTML element or resizing a window
+- When an event is fired, a function is executed.
+
+***
+### What is SQL
+<p>SQL - allows your web application to store and retreive data
+<p>SQL stores information in tables, which is simply a collection of information organized into rows and columns.
+
+## Programming Vs Coding
+* Programming is the mental process of thinking up instructions to give to a machine (like a computer)
+* Coding is the process of transforming those ideas into a written language that a computer can understand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
