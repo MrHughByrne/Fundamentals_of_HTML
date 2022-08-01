@@ -1,4 +1,4 @@
-# HTML Elements
+# Fundamentals of HTML: 2/5 Elements & 3/5 Structure
 <p>HTML is made up of elements. General makeup of a HTML element looks like the following:
 
 ![image](https://user-images.githubusercontent.com/110134426/182184380-05bb8c6f-ea11-4a4d-8994-b999c1a0064a.png)
