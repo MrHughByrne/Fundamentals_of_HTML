@@ -1,4 +1,4 @@
-# From Zero to Full Stack 1/5
+# Fundamentals of HTML 1/5
 <p>The purpose of this text file is to store my learnings as I build my knowledge and skills for foundational Web Develpment through Codecademy.
 
 ## Introduction to Software Development 
