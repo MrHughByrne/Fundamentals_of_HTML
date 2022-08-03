@@ -226,6 +226,93 @@ Structure elements of HTML
 + < embed > embeds any media content including videos, audio files, and gifs from an external source.
   <br></br>
   ![image](https://user-images.githubusercontent.com/110134426/182598123-b1400ccb-9c8c-405b-8dca-ecb4303970f0.png)
+  
+***
+  
+## Project: Blogger Webiste
+  
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <!-- 1    -->
+    <nav>
+      <!-- 2 -->
+      <ul>
+        <li><a href="">Blog</a></li>
+        <li><a href="">Media</a></li>
+        <li><a href="">About</a></li>
+      </ul>
+    </nav>
+    <!-- 3 -->
+    <header>
+      <h1>New York City</h1>
+    </header>
+    <!-- 4 -->
+    <main>
+      <section id="blog">
+        <!-- 5 -->
+        <article>
+          <p>
+            New York City is made up of five boroughs which include Queens, Manhattan, Brooklyn, the Bronx, and Staten Island. The city is the home of approximately 8 million people. In 1876, France gifted the City of New York what is known as the Statue of Liberty, which is currently located on Liberty Island and commonly visited by tourists. However, it took 10 years to assemble and therefore wasn’t unveiled until 1886. Another tourist destination is Times Square. Times Square is commonly known for the big buildings, Broadway shows, and bright neon signs. This famous location was named after The New York Times after the Times moved to that location. Prior to that, it was named Longacre Square. New York City is also known for its bridges that connect the boroughs and allow ease of transportation.
+          </p>
+        </article>
+      </section>
+      <!-- 6 -->
+      <figure>
+        <!-- 7 -->
+        <img src="https://content.codecademy.com/courses/Semantic%20HTML/statue-of-liberty.jpeg"/>
+        <!-- 8 -->
+        <figcaption>
+          This is the Statue of Liberty, a popular tourist attraction located on Liberty Island.
+          </figcaption>
+      </figure>
+      <!-- 9 -->
+      <aside>
+        <p>
+          New York City is very popular for the variety of great food it has. Some of the top food items in NYC include:
+        </p>
+        <!-- 10 -->
+        <ol>
+          <li>Pizza</li>
+          <li>Bagels</li>
+          <li>Burgers and Sandwiches</li>
+          <li>Ramen</li>
+          <li>Tacos</li>
+          <li>Pasta</li>
+          <li>Desserts</li>
+        </ol>
+      </aside>
+      <!-- 11 -->
+      <section id="media">
+        <article>
+          <h2>The Scenery in NYC</h2>
+          <!-- 12 -->
+          <p>
+            While the view in the city is beautiful, the sounds are not as lovely. Below you'll see an example of the view and the sounds you'll deal with in NYC on a daily basis.
+          </p>
+        </article>
+        <!-- 13 -->
+        <video src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline-timelapse.mp4" controls></video>
+        <!-- 14 -->
+        <embed src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-skyline.jpeg"></embed>
+        <!-- 15 -->
+        <audio src="https://content.codecademy.com/courses/Semantic%20HTML/nyc-sounds.mov" controls></audio>        
+      </section>
+    </main>
+    <!-- 16 -->
+    <footer>
+      <p>
+        Posted By: Anonymous
+      </p>
+      <p>
+        Contact information: Blogger@NYC.com
+      </p>
+    </footer>
+  </body>
+</html>
 
 
   
