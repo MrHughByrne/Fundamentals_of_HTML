@@ -136,3 +136,118 @@ Link: https://content.codecademy.com/courses/learn-html-tables/index.html
 </body>
 
 </html>
+
+***
+ ## Semantic HTML
+
+Structure elements of HTML
+#### Header
++ < header >  a container usually for either navigational links or introductory content containing < h1 > to < h6 > headings.
+  <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182596533-008e5179-a7b2-4603-b672-46a7c1d7b1bd.png)
+
+***
+
+#### Footer
+  + < footer > content at the bottom of the subject information</br>
+  <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182596569-f1bab9b0-efcd-469d-a4fd-4385feeedb09.png)
+
+***
+
+#### Main
+  + < main > used to encapsulate the dominant content within a webpage.</br>
+  <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182596592-42cd781f-ad14-4a3f-86a7-86a70305800e.png)
+
+***
+
+#### Nav
++ < nav > used to define a block of navigation links such as menus and tables of contents.
+  <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182597050-c79a0ec1-1ef8-44d0-ac00-2a959a7d509c.png)
+
+***
+
+#### Section
++ < section > defines elements in a document, such as chapters, headings, or any other area of the document with the same theme.
+  <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182597073-5b4053bf-031d-44f7-a1a8-702583dcbab9.png)
+
+***
+
+#### Article
++ < article > element holds content that makes sense on its own.
+  <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182597162-bb7781db-1e3f-45be-932d-f039b1650d49.png)
+
+***
+
+#### Aside
++ < aside > element is used to mark additional information that can enhance another element but isn’t required in order to understand the main content. This element can be used alongside other elements such as < article > or < section >. 
+   <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182597189-72c537fc-4d5c-4c17-92dc-50620801c526.png)
+
+***
+
+#### Figure
++ < figure > is an element used to encapsulate media such as an image, illustration, diagram, code snippet, etc, which is referenced in the main flow of the document.
+  <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182597215-e188cf40-be2e-4ae6-a2e7-86b05524443c.png)
+
+***
+
+#### Figcaption
++ < figcaption > is an element used to describe the media in the < figure > tag.
+  <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182597291-73de8f94-c6fb-4a62-a225-de968394ef9a.png)
+
+***
+
+#### Audio
++ < audio > element is used to embed audio content into a document.
+  <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182597345-7e128be6-d818-4472-a360-82b9d85369bd.png)
+
++ Within the audio element, we can also call for "controls" which will automatically display the audio controls into the browser such as play and mute.
+  <br></br>
+![image](https://user-images.githubusercontent.com/110134426/182597420-28e82c9d-a371-41fe-9f6f-0b6e2117aad9.png)
+
+***
+
+#### Video
++ < video > allows you to add videos to your website
+  <br></br>
+  ![image](https://user-images.githubusercontent.com/110134426/182597834-b5cf4b38-a7bc-42f5-b2fe-695cad24e42b.png)
+
+***
+  
+#### Embed
++ < embed > embeds any media content including videos, audio files, and gifs from an external source.
+  <br></br>
+  ![image](https://user-images.githubusercontent.com/110134426/182598123-b1400ccb-9c8c-405b-8dca-ecb4303970f0.png)
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
